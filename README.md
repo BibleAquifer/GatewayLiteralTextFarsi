@@ -1,2 +1,25 @@
-# GatewayLiteralTextFarsi
-Aquifer resource repository for GatewayLiteralTextFarsi, containing resource-level metadata, article-level metadata, and content files.
+# _Gateway Literal Text (Farsi)_ Aquifer Resource
+
+This repository (`GatewayLiteralTextFarsi`) contains an Aquifer Bible resource with resource-level metadata and content files in USFM and USX formats.
+
+## License
+
+_Gateway Literal Text (Farsi)_ © 2025 [Transform Iran](http://TransformIran.com)
+
+This resource is licensed under the [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) license.
+
+## Structure
+
+The repository is organized by language codes, with each language folder containing USFM and USX content files.
+
+## Documentation
+
+For more information about the Aquifer platform, data, and metadata formats, visit the [Aquifer Documentation repository](https://github.com/BibleAquifer/GatewayLiteralTextFarsi).
+
+## Sources
+
+This edition represents v11 of the *Persian Literal Text*, published 2025 by [Transform Iran](https://transformiran.com) on Door43.
+
+Source: https://git.door43.org/fa_gl/fa_glt/releases/tag/v11
+
+License: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
